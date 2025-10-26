@@ -1,12 +1,12 @@
 # 📦 SupplyChain-Insight — Power BI Dashboard
-Comprehensive Supply Chain Performance Analysis
+# ✨ Comprehensive Supply Chain Performance Analysis
 🧾 Project Overview
 
 The SupplyChain-Insight dashboard provides a complete view of business performance across the entire supply chain — from product sales to supplier, production, inventory, logistics, and quality control.
 
 It helps identify bottlenecks, reduce costs, and improve delivery efficiency through clear data-driven insights and interactive Power BI visuals.
 
-🎯 Key Objectives
+### 🎯 Key Objectives
 
 Monitor overall supply chain health through KPIs.
 
@@ -20,7 +20,7 @@ Optimize logistics cost and route efficiency.
 
 Improve product quality and manufacturing performance.
 
-📊 Key Insights
+### 📊 Key Insights
 
 Skincare products generated the highest revenue (52%), but also had longer lead times.
 
@@ -34,7 +34,7 @@ Availability at 46% vs 80% target led to an estimated ₹115K in lost sales.
 
 Cosmetics segment showed the best profit margin and fastest production.
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 ![Summary Dashboard](https://github.com/omkishorchavan/SupplyChain-Performance-Analysis/blob/main/Supply%20chain%20Dashboard.jpg)
 ![Summary Dashboard](https://github.com/omkishorchavan/SupplyChain-Performance-Analysis/blob/main/Supply%20chain%20Dashboard%202.jpg)
 
@@ -49,7 +49,7 @@ Visual types: Cards, Donut Charts, Bar Charts, Line Charts, Heatmaps, and Gauges
 
 Drill-through pages for SKU and Supplier performance.
 
-🛠️ Tools Used
+### 🛠️ Tools Used
 
 Power BI Desktop — Dashboard creation
 
@@ -59,7 +59,7 @@ Power Query — Data cleaning and modeling
 
 Excel/CSV — Data preprocessing
 
-💡 Business Impact
+### 💡 Business Impact
 
 Improved visibility into supplier delays and defects.
 
