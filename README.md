@@ -1,4 +1,4 @@
-📦 SupplyChain-Insight — Power BI Dashboard
+# 📦 SupplyChain-Insight — Power BI Dashboard
 Comprehensive Supply Chain Performance Analysis
 🧾 Project Overview
 
